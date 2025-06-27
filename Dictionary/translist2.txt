@@ -1,0 +1,3 @@
+chien/dog
+oiseau/bird
+souris/mouse

@@ -1,0 +1,4 @@
+soulier/shoe
+manteau
+jupe/skirt
+robe/dress
